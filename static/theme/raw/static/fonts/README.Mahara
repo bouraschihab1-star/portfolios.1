@@ -1,0 +1,58 @@
+Material Symbols
+================
+
+Website: https://fonts.google.com/icons
+Version: Managed by NPM
+License: https://developers.google.com/fonts/faq (Fonts: SIL OFL 1.1)
+See package.json
+
+This library is for the Material Symbols icon glyphs.
+
+To update the font files part go to their git repo
+and copy the contents of their /webfonts/ directory to our
+htdocs/theme/raw/fonts/material-symbols/ directory.
+
+Open Sans
+=========
+
+Website: https://www.google.com/fonts/specimen/Open+Sans
+Version: 34
+Author: Steve Matteson
+License: Apache License, version 2.0
+
+Open Sans is a humanist sans serif typeface designed by Steve
+Matteson, Type Director of Ascender Corp. This version contains the
+complete 897 character set, which includes the standard ISO Latin 1,
+Latin CE, Greek and Cyrillic character sets. Open Sans was designed
+with an upright stress, open forms and a neutral, yet friendly
+appearance. It was optimized for print, web, and mobile interfaces,
+and has excellent legibility characteristics in its letterforms.
+
+
+Roboto Slab
+===========
+
+Website: https://www.google.com/fonts/specimen/Roboto+Slab
+Version: 24
+Author: Christian Robertson
+License: Apache License, version 2.0
+Changes: Using Latin Extended
+
+Roboto has a dual nature. It has a mechanical skeleton and the forms
+are largely geometric. At the same time, the font features friendly
+and open curves. While some grotesks distort their letterforms to
+force a rigid rhythm, Roboto doesn’t compromise, allowing letters to
+be settled into their natural width. This makes for a more natural
+reading rhythm more commonly found in humanist and serif types.
+
+
+Bootstrap Glyphicons Halflings
+==============================
+
+Website: https://getbootstrap.com/docs/3.3/components/
+Version: 1.9
+License: MIT License
+
+Includes over 250 glyphs in font format from the Glyphicon Halflings
+set. Glyphicons Halflings are normally not available for free, but
+their creator has made them available for Bootstrap free of cost.

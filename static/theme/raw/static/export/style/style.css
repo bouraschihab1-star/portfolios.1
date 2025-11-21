@@ -1,0 +1,64 @@
+/**
+ * Stylesheet for static HTML export
+ *
+ * @author     Catalyst IT Ltd
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL version 3 or later
+ * @copyright  For copyright information on Mahara, please see the README file distributed with this software.
+ */
+
+/* Breadcrumbs */
+.breadcrumbs ul {
+    margin: .5em 0 .1em;
+    padding: 0;
+}
+.breadcrumbs li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    color: #808080;
+    font-size: smaller;
+    font-family: Arial, sans-serif;
+}
+.breadcrumbs a {
+    color: #808080;
+}
+.breadcrumbs li.selected a {
+    color: #303030;
+}
+.breadcrumbs.collection {
+    margin-top: .5em;
+}
+.breadcrumbs li.collectionname {
+    color: #303030;
+    font-weight: bold;
+}
+#breadcrumbs-footer {
+    clear: both;
+}
+
+/* Homepage summary */
+.summary {
+    float: left;
+    width: 48%;
+}
+.summary.even {
+    clear: left;
+}
+#summary-internal {
+    border: none;
+    float: none;
+    clear: both;
+    width: auto;
+    border-bottom: 1px dotted #ccc;
+}
+#summary-internal ul {
+    list-style-position: inside;
+}
+#summary-internal #profile-introduction {
+    font-size: larger;
+}
+#summary-internal #profile-icon {
+    float: left;
+    padding: 0 1em 1em 0;
+}
